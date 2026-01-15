@@ -10,4 +10,5 @@ env = {}
 [config]
 env_name = "cultist"
 max_steps = 20
+num_trials = 10
 # Add your assessment config here
