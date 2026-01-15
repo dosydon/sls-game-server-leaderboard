@@ -8,4 +8,6 @@ name = "player"
 env = {}
 
 [config]
+env_name = "cultist"
+max_steps = 20
 # Add your assessment config here
