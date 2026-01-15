@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/dosydon/sls-game-server@sha256:736f0c7e5e87320269f7ed3ff1006071017c1c88417d0ca1366814ae6be6892e",
+    "player": "ghcr.io/dosydon/sls-player-mcts@sha256:f4dcde8d75bd3f5704be9c0c71a28c499653b64996a72a7cc2154585540b129f",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-15T03:42:52Z",
+  "github_actions": {
+    "run_url": "https://github.com/dosydon/sls-game-server-leaderboard/actions/runs/21018897732",
+    "run_logs_url": "https://api.github.com/repos/dosydon/sls-game-server-leaderboard/actions/runs/21018897732/logs",
+    "ref": "refs/heads/cultist",
+    "sha": "b83e23ab8f3ff5d7a739db22509e6c4e94b57aad",
+    "repository_url": "https://github.com/dosydon/sls-game-server-leaderboard",
+    "workflow_ref": "dosydon/sls-game-server-leaderboard/.github/workflows/run-scenario.yml@refs/heads/cultist",
+    "workflow_sha": "b83e23ab8f3ff5d7a739db22509e6c4e94b57aad"
+  }
+}
