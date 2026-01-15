@@ -3,9 +3,12 @@ agentbeats_id = "019bbd0b-bd22-7801-a57e-7b2b0d2a2d41"
 env = { API_KEY = "${GITHUB_SECRET_NAME}", LOG_LEVEL = "INFO" }
 
 [[participants]]
-agentbeats_id = ""
+agentbeats_id = "019bbf47-9e25-72a2-b58a-407e9817c7ad"
 name = "player"
 env = {}
 
 [config]
+env_name = "cultist"
+max_steps = 20
+num_trials = 10
 # Add your assessment config here
