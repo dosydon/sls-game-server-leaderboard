@@ -1,0 +1,17 @@
+{
+  "image_digests": {
+    "green-agent": "ghcr.io/dosydon/sls-game-server@sha256:ffa3917c43ca716db81ad5dbb88621ddaf8b0f427f2dae36620421cefbe2bc57",
+    "player": "ghcr.io/dosydon/sls-player-mcts@sha256:f4dcde8d75bd3f5704be9c0c71a28c499653b64996a72a7cc2154585540b129f",
+    "agentbeats-client": "ghcr.io/agentbeats/agentbeats-client@sha256:13dfe3ef4e583a80e7ce2fe3becd0ce3b879841368a7f4fa40b6ebbabeeb014e"
+  },
+  "timestamp": "2026-01-15T01:42:13Z",
+  "github_actions": {
+    "run_url": "https://github.com/dosydon/sls-game-server-leaderboard/actions/runs/21016454650",
+    "run_logs_url": "https://api.github.com/repos/dosydon/sls-game-server-leaderboard/actions/runs/21016454650/logs",
+    "ref": "refs/heads/submission",
+    "sha": "9aa4f0b88733ae0953200ed354bcd8b2c08274e9",
+    "repository_url": "https://github.com/dosydon/sls-game-server-leaderboard",
+    "workflow_ref": "dosydon/sls-game-server-leaderboard/.github/workflows/run-scenario.yml@refs/heads/submission",
+    "workflow_sha": "9aa4f0b88733ae0953200ed354bcd8b2c08274e9"
+  }
+}
